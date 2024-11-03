@@ -1,7 +1,7 @@
 +++
 title = 'Posts'
-date = 2024-10-27T22:00:08-03:00
-draft = true
+date = 2024-11-02T10:57:52-03:00
+draft = false
 +++
 
-## hello world content/posts
+## hello world 3.0

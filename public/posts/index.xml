@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on costacurta.me</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on costacurta.me</description>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 02 Nov 2024 10:22:55 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aprendendo sql</title>
+      <link>http://localhost:1313/posts/aprendendo_sql/</link>
+      <pubDate>Sat, 02 Nov 2024 10:22:55 -0300</pubDate>
+      <guid>http://localhost:1313/posts/aprendendo_sql/</guid>
+      <description>Aprendendo SQL Continuando na minha jornada de aprendizado sobre analise da dados, hoje decidi dar uma pausa nos estudos de Pandas e vou começar a estudar SQL, mas acho que vou usar um livro, &amp;ldquo;the old fashioned way&amp;rdquo;, para tal.
+Decidi seguir essa trilha por que esses cursos on-line me incomodam em alguns aspectos, principalmente na parte de que eles não abordam de maneira adequada o dia a dia de se usar a ferramenta na vida real.</description>
+    </item>
+  </channel>
+</rss>
